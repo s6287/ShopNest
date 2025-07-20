@@ -2,11 +2,11 @@ import React from 'react'
 import Navbar from './Component/Navbar'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
-import Home from './page/Home';
-import Product from './page/Product';
-import Cart from './page/Cart';
-import About from './page/About';
-import Contact from './page/Contact';
+import Home from './Page/Home';
+import Product from './Page/Product';
+import Cart from './Page/Cart';
+import About from './Page/About';
+import Contact from './Page/Contact';
 import { CartProvider, AuthProvider } from "./Page/Context";
 import { ThemeProvider } from "./Page/ThemeContext";
 import ProductDetails from './Page/ProductDetails';
