@@ -96,3 +96,30 @@ MIT
 ## ⭐️ Show your support
 
 Star the repo, share, and use ShopNest as a portfolio project!
+
+---
+
+## **How to Fix:**
+
+1. **Pull the remote changes and merge them:**
+   ```sh
+   git pull origin main --allow-unrelated-histories
+   ```
+
+2. **If there are any merge conflicts, resolve them (usually just in README.md).**
+   - Open the conflicted file(s), choose which content to keep, save, and then:
+     ```sh
+     git add .
+     git commit -m "Resolve merge conflicts"
+     ```
+
+3. **Now push again:**
+   ```sh
+   git push -u origin main
+   ```
+
+---
+
+**After this, your code will be on GitHub and you can deploy to Vercel!**
+
+If you get any merge conflict messages, copy them here and I’ll help you resolve them step by step.
