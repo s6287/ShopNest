@@ -88,7 +88,11 @@ MIT
 
 ## 🙌 Credits
 
+<<<<<<< HEAD
 - Built by [Your Name]
+=======
+- Built by [Shivam Singh]
+>>>>>>> fa6400f085ec96483709755478cc10277e900630
 - Inspired by modern e-commerce best practices
 
 ---
@@ -96,6 +100,7 @@ MIT
 ## ⭐️ Show your support
 
 Star the repo, share, and use ShopNest as a portfolio project!
+<<<<<<< HEAD
 
 ---
 
@@ -123,3 +128,5 @@ Star the repo, share, and use ShopNest as a portfolio project!
 **After this, your code will be on GitHub and you can deploy to Vercel!**
 
 If you get any merge conflict messages, copy them here and I’ll help you resolve them step by step.
+=======
+>>>>>>> fa6400f085ec96483709755478cc10277e900630
