@@ -42,11 +42,5 @@ ShopNest is a modern, visually stunning e-commerce web app built with React and 
 
 
 
----
 
-## 📝 Getting Started
 
-1. **Clone the repo:**
-   ```sh
-   git clone https://github.com/s6287/ShopNest.git
-   cd ecommerce-website
