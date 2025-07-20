@@ -6,8 +6,7 @@ ShopNest is a modern, visually stunning e-commerce web app built with React and 
 
 ## 🚀 Live Demo
 
-[https://shopnest.vercel.app](https://shopnest.vercel.app)
-*(Replace with your actual Vercel URL after deployment)*
+[https://shop-nest-haim.vercel.app](https://shop-nest-haim.vercel.app)
 
 ---
 
@@ -39,8 +38,9 @@ ShopNest is a modern, visually stunning e-commerce web app built with React and 
 ---
 
 ## 📸 Screenshots
+<img width="1913" height="902" alt="image" src="https://github.com/user-attachments/assets/2032fba9-4f3e-41d7-a6c6-b63565e0d2cf" />
 
-*(Add screenshots here after deployment!)*
+
 
 ---
 
@@ -48,85 +48,5 @@ ShopNest is a modern, visually stunning e-commerce web app built with React and 
 
 1. **Clone the repo:**
    ```sh
-   git clone https://github.com/yourusername/shopnest.git
-   cd shopnest/ecommerce-website
-   ```
-
-2. **Install dependencies:**
-   ```sh
-   npm install
-   ```
-
-3. **Run locally:**
-   ```sh
-   npm run dev
-   ```
-
-4. **Build for production:**
-   ```sh
-   npm run build
-   ```
-
----
-
-## 🌐 Deployment
-
-### Deploy on Vercel
-1. Push your code to GitHub.
-2. Go to [vercel.com](https://vercel.com/), log in with GitHub.
-3. Click “New Project” and select your repo.
-4. Accept defaults (Vite/React detected automatically).
-5. Click “Deploy” and get your live URL!
-
----
-
-## 📄 License
-
-MIT
-
----
-
-## 🙌 Credits
-
-<<<<<<< HEAD
-- Built by [Your Name]
-=======
-- Built by [Shivam Singh]
->>>>>>> fa6400f085ec96483709755478cc10277e900630
-- Inspired by modern e-commerce best practices
-
----
-
-## ⭐️ Show your support
-
-Star the repo, share, and use ShopNest as a portfolio project!
-<<<<<<< HEAD
-
----
-
-## **How to Fix:**
-
-1. **Pull the remote changes and merge them:**
-   ```sh
-   git pull origin main --allow-unrelated-histories
-   ```
-
-2. **If there are any merge conflicts, resolve them (usually just in README.md).**
-   - Open the conflicted file(s), choose which content to keep, save, and then:
-     ```sh
-     git add .
-     git commit -m "Resolve merge conflicts"
-     ```
-
-3. **Now push again:**
-   ```sh
-   git push -u origin main
-   ```
-
----
-
-**After this, your code will be on GitHub and you can deploy to Vercel!**
-
-If you get any merge conflict messages, copy them here and I’ll help you resolve them step by step.
-=======
->>>>>>> fa6400f085ec96483709755478cc10277e900630
+   git clone https://github.com/s6287/ShopNest.git
+   cd ecommerce-website
